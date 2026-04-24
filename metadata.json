@@ -1,0 +1,6 @@
+{
+  "name": "RacalTrack",
+  "description": "Smart Driver Remittance & Financial Transparency System for Mindanao State University. Tracks driver rounds and validates ₹25-per-round payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
